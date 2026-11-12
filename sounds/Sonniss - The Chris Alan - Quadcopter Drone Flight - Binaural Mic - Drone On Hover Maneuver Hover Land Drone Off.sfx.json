@@ -1,0 +1,15 @@
+{
+ "source": "sonniss-gdc",
+ "kind": "drone",
+ "grp": "sound effects",
+ "bundle": "Sonniss.com - GDC 2020 - Game Audio Bundle",
+ "library": "The Chris Alan - QuadCopter Drone Flight In Binaural",
+ "original_file": "The Chris Alan - Quadcopter Drone Flight - Binaural Mic - Drone On Hover Maneuver Hover Land Drone Off.wav",
+ "excerpt_start_s": 0.0,
+ "excerpt_s": 30.0,
+ "channel": "first channel only",
+ "sample_rate": 192000,
+ "licence": "Sonniss #GameAudioGDC bundle licence (licences/sonniss-gdc-eula.pdf)",
+ "licence_url": "https://sonniss.com/gdcbundle-license/",
+ "calls3_bat_calls_full_file": 43
+}

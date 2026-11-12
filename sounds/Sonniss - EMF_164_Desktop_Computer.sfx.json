@@ -1,0 +1,15 @@
+{
+ "source": "sonniss-gdc",
+ "kind": "electrical",
+ "grp": "sound effects",
+ "bundle": "Sonniss.com - GDC 2019 - Game Audio Bundle",
+ "library": "Soundbox Library - Electromagnetic Fields Collection",
+ "original_file": "EMF_164_Desktop_Computer.wav",
+ "excerpt_start_s": 0.0,
+ "excerpt_s": 30.0,
+ "channel": "first channel only",
+ "sample_rate": 192000,
+ "licence": "Sonniss #GameAudioGDC bundle licence (licences/sonniss-gdc-eula.pdf)",
+ "licence_url": "https://sonniss.com/gdcbundle-license/",
+ "calls3_bat_calls_full_file": 2389
+}

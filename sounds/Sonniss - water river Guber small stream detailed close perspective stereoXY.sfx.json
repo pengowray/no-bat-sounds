@@ -1,0 +1,15 @@
+{
+ "source": "sonniss-gdc",
+ "kind": "water",
+ "grp": "sound effects",
+ "bundle": "Sonniss.com - GDC 2017 - Game Audio Bundle",
+ "library": "SoundHolder -  Water Flow",
+ "original_file": "water river Guber small stream detailed close perspective stereoXY.wav",
+ "excerpt_start_s": 15.0,
+ "excerpt_s": 30.0,
+ "channel": "first channel only",
+ "sample_rate": 96000,
+ "licence": "Sonniss #GameAudioGDC bundle licence (licences/sonniss-gdc-eula.pdf)",
+ "licence_url": "https://sonniss.com/gdcbundle-license/",
+ "calls3_bat_calls_full_file": 1799
+}

@@ -1,0 +1,15 @@
+{
+ "source": "sonniss-gdc",
+ "kind": "birds",
+ "grp": "sound effects",
+ "bundle": "Sonniss.com - GDC 2019 - Game Audio Bundle",
+ "library": "Soundmind - Predatory Birds",
+ "original_file": "PRB315 Northern Goshawk (Lucjan) - Call, Squawk Shriek Screech Long, Wings Flapping Movements - Sanken MF.wav",
+ "excerpt_start_s": 0.0,
+ "excerpt_s": 22.3,
+ "channel": "first channel only",
+ "sample_rate": 192000,
+ "licence": "Sonniss #GameAudioGDC bundle licence (licences/sonniss-gdc-eula.pdf)",
+ "licence_url": "https://sonniss.com/gdcbundle-license/",
+ "calls3_bat_calls_full_file": 19
+}

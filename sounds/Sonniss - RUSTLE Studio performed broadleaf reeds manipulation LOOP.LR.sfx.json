@@ -1,0 +1,15 @@
+{
+ "source": "sonniss-gdc",
+ "kind": "vegetation",
+ "grp": "sound effects",
+ "bundle": "Sonniss.com - GDC 2018 - Game Audio Bundle",
+ "library": "Articulated Sounds - Rustle Tones",
+ "original_file": "RUSTLE Studio performed broadleaf reeds manipulation LOOP.LR.wav",
+ "excerpt_start_s": 26.0,
+ "excerpt_s": 30.0,
+ "channel": "first channel only",
+ "sample_rate": 96000,
+ "licence": "Sonniss #GameAudioGDC bundle licence (licences/sonniss-gdc-eula.pdf)",
+ "licence_url": "https://sonniss.com/gdcbundle-license/",
+ "calls3_bat_calls_full_file": 332
+}

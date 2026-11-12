@@ -1,0 +1,15 @@
+{
+ "source": "sonniss-gdc",
+ "kind": "birds",
+ "grp": "sound effects",
+ "bundle": "Sonniss.com - GDC 2023 - Game Audio Bundle",
+ "library": "Sonic Bat - Ambisonics - Zoo",
+ "original_file": "SBAz_Aviary 003.wav",
+ "excerpt_start_s": 3.0,
+ "excerpt_s": 30.0,
+ "channel": "first channel only",
+ "sample_rate": 192000,
+ "licence": "Sonniss #GameAudioGDC bundle licence (licences/sonniss-gdc-eula.pdf)",
+ "licence_url": "https://sonniss.com/gdcbundle-license/",
+ "calls3_bat_calls_full_file": 41
+}

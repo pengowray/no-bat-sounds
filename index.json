@@ -1,0 +1,816 @@
+{
+  "sounds": [
+    {
+      "en": "Common Shrew",
+      "filename": "XC962754 - Common Shrew - Sorex araneus.wav",
+      "metadata": "XC962754 - Common Shrew - Sorex araneus.xc.json",
+      "source": "xeno-canto",
+      "species": "Sorex araneus",
+      "xc_id": 962754
+    },
+    {
+      "en": "Greater White-toothed Shrew",
+      "filename": "XC1182847 - Greater White-toothed Shrew - Crocidura russula.wav",
+      "metadata": "XC1182847 - Greater White-toothed Shrew - Crocidura russula.xc.json",
+      "source": "xeno-canto",
+      "species": "Crocidura russula",
+      "xc_id": 1182847
+    },
+    {
+      "en": "Brown-headed Spider Monkey",
+      "filename": "XC1083798 - Brown-headed Spider Monkey - Ateles fusciceps.wav",
+      "metadata": "XC1083798 - Brown-headed Spider Monkey - Ateles fusciceps.xc.json",
+      "source": "xeno-canto",
+      "species": "Ateles fusciceps",
+      "xc_id": 1083798
+    },
+    {
+      "en": "Greater White-toothed Shrew",
+      "filename": "XC962752 - Greater White-toothed Shrew - Crocidura russula.wav",
+      "metadata": "XC962752 - Greater White-toothed Shrew - Crocidura russula.xc.json",
+      "source": "xeno-canto",
+      "species": "Crocidura russula",
+      "xc_id": 962752
+    },
+    {
+      "en": "Eurasian Red Squirrel",
+      "filename": "XC1180736 - Eurasian Red Squirrel - Sciurus vulgaris.wav",
+      "metadata": "XC1180736 - Eurasian Red Squirrel - Sciurus vulgaris.xc.json",
+      "source": "xeno-canto",
+      "species": "Sciurus vulgaris",
+      "xc_id": 1180736
+    },
+    {
+      "en": "Eurasian Otter",
+      "filename": "XC1101681 - Eurasian Otter - Lutra lutra.wav",
+      "metadata": "XC1101681 - Eurasian Otter - Lutra lutra.xc.json",
+      "source": "xeno-canto",
+      "species": "Lutra lutra",
+      "xc_id": 1101681
+    },
+    {
+      "en": "Pallas's Squirrel",
+      "filename": "XC1048203 - Pallas's Squirrel - Callosciurus erythraeus.wav",
+      "metadata": "XC1048203 - Pallas's Squirrel - Callosciurus erythraeus.xc.json",
+      "source": "xeno-canto",
+      "species": "Callosciurus erythraeus",
+      "xc_id": 1048203
+    },
+    {
+      "en": "Common Shrew",
+      "filename": "XC976836 - Common Shrew - Sorex araneus.wav",
+      "metadata": "XC976836 - Common Shrew - Sorex araneus.xc.json",
+      "source": "xeno-canto",
+      "species": "Sorex araneus",
+      "xc_id": 976836
+    },
+    {
+      "en": "Common Shrew",
+      "filename": "XC931013 - Common Shrew - Sorex araneus.wav",
+      "metadata": "XC931013 - Common Shrew - Sorex araneus.xc.json",
+      "source": "xeno-canto",
+      "species": "Sorex araneus",
+      "xc_id": 931013
+    },
+    {
+      "en": "European Badger",
+      "filename": "XC1028084 - European Badger - Meles meles.wav",
+      "metadata": "XC1028084 - European Badger - Meles meles.xc.json",
+      "source": "xeno-canto",
+      "species": "Meles meles",
+      "xc_id": 1028084
+    },
+    {
+      "en": "Bicolored White-toothed Shrew",
+      "filename": "XC911014 - Bicolored White-toothed Shrew - Crocidura leucodon.wav",
+      "metadata": "XC911014 - Bicolored White-toothed Shrew - Crocidura leucodon.xc.json",
+      "source": "xeno-canto",
+      "species": "Crocidura leucodon",
+      "xc_id": 911014
+    },
+    {
+      "en": "Bicolored White-toothed Shrew",
+      "filename": "XC911013 - Bicolored White-toothed Shrew - Crocidura leucodon.wav",
+      "metadata": "XC911013 - Bicolored White-toothed Shrew - Crocidura leucodon.xc.json",
+      "source": "xeno-canto",
+      "species": "Crocidura leucodon",
+      "xc_id": 911013
+    },
+    {
+      "en": "Western Red Deer",
+      "filename": "XC818790 - Western Red Deer - Cervus elaphus.wav",
+      "metadata": "XC818790 - Western Red Deer - Cervus elaphus.xc.json",
+      "source": "xeno-canto",
+      "species": "Cervus elaphus",
+      "xc_id": 818790
+    },
+    {
+      "en": "Identity unknown",
+      "filename": "XC1172578 - Identity unknown - Mystery mystery.wav",
+      "metadata": "XC1172578 - Identity unknown - Mystery mystery.xc.json",
+      "source": "xeno-canto",
+      "species": "Mystery mystery",
+      "xc_id": 1172578
+    },
+    {
+      "en": "Identity unknown",
+      "filename": "XC1172576 - Identity unknown - Mystery mystery.wav",
+      "metadata": "XC1172576 - Identity unknown - Mystery mystery.xc.json",
+      "source": "xeno-canto",
+      "species": "Mystery mystery",
+      "xc_id": 1172576
+    },
+    {
+      "en": "Identity unknown",
+      "filename": "XC1172573 - Identity unknown - Mystery mystery.wav",
+      "metadata": "XC1172573 - Identity unknown - Mystery mystery.xc.json",
+      "source": "xeno-canto",
+      "species": "Mystery mystery",
+      "xc_id": 1172573
+    },
+    {
+      "en": "Identity unknown",
+      "filename": "XC1135608 - Identity unknown - Mystery mystery.wav",
+      "metadata": "XC1135608 - Identity unknown - Mystery mystery.xc.json",
+      "source": "xeno-canto",
+      "species": "Mystery mystery",
+      "xc_id": 1135608
+    },
+    {
+      "en": "Identity unknown",
+      "filename": "XC1072439 - Identity unknown - Mystery mystery.wav",
+      "metadata": "XC1072439 - Identity unknown - Mystery mystery.xc.json",
+      "source": "xeno-canto",
+      "species": "Mystery mystery",
+      "xc_id": 1072439
+    },
+    {
+      "en": "Identity unknown",
+      "filename": "XC997031 - Identity unknown - Mystery mystery.wav",
+      "metadata": "XC997031 - Identity unknown - Mystery mystery.xc.json",
+      "source": "xeno-canto",
+      "species": "Mystery mystery",
+      "xc_id": 997031
+    },
+    {
+      "en": "Woodland Grasshopper",
+      "filename": "XC1186909 - Woodland Grasshopper - Omocestus rufipes.wav",
+      "metadata": "XC1186909 - Woodland Grasshopper - Omocestus rufipes.xc.json",
+      "source": "xeno-canto",
+      "species": "Omocestus rufipes",
+      "xc_id": 1186909
+    },
+    {
+      "en": "Mediterranean Bush-cricket",
+      "filename": "XC1186686 - Mediterranean Bush-cricket - Rhacocleis germanica.wav",
+      "metadata": "XC1186686 - Mediterranean Bush-cricket - Rhacocleis germanica.xc.json",
+      "source": "xeno-canto",
+      "species": "Rhacocleis germanica",
+      "xc_id": 1186686
+    },
+    {
+      "en": "Carlotta's Saddle Bush-cricket",
+      "filename": "XC1186685 - Carlotta's Saddle Bush-cricket - Ephippiger carlottae.wav",
+      "metadata": "XC1186685 - Carlotta's Saddle Bush-cricket - Ephippiger carlottae.xc.json",
+      "source": "xeno-canto",
+      "species": "Ephippiger carlottae",
+      "xc_id": 1186685
+    },
+    {
+      "en": "Italian Bow-winged Grasshopper",
+      "filename": "XC1186683 - Italian Bow-winged Grasshopper - Chorthippus rubratibialis.wav",
+      "metadata": "XC1186683 - Italian Bow-winged Grasshopper - Chorthippus rubratibialis.xc.json",
+      "source": "xeno-canto",
+      "species": "Chorthippus rubratibialis",
+      "xc_id": 1186683
+    },
+    {
+      "en": "Allard’s ground cricket",
+      "filename": "XC1185052 - Allard’s ground cricket - Allonemobius allardi.wav",
+      "metadata": "XC1185052 - Allard’s ground cricket - Allonemobius allardi.xc.json",
+      "source": "xeno-canto",
+      "species": "Allonemobius allardi",
+      "xc_id": 1185052
+    },
+    {
+      "en": "",
+      "filename": "XC1184661 -  - Eumodicogryllus bordigalensis.wav",
+      "metadata": "XC1184661 -  - Eumodicogryllus bordigalensis.xc.json",
+      "source": "xeno-canto",
+      "species": "Eumodicogryllus bordigalensis",
+      "xc_id": 1184661
+    },
+    {
+      "en": "Two-spotted Cricket",
+      "filename": "XC1184660 - Two-spotted Cricket - Gryllus bimaculatus.wav",
+      "metadata": "XC1184660 - Two-spotted Cricket - Gryllus bimaculatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Gryllus bimaculatus",
+      "xc_id": 1184660
+    },
+    {
+      "en": "African Meadow Katydid",
+      "filename": "XC1183922 - African Meadow Katydid - Conocephalus conocephalus.wav",
+      "metadata": "XC1183922 - African Meadow Katydid - Conocephalus conocephalus.xc.json",
+      "source": "xeno-canto",
+      "species": "Conocephalus conocephalus",
+      "xc_id": 1183922
+    },
+    {
+      "en": "Bog Bush-cricket",
+      "filename": "XC1182137 - Bog Bush-cricket - Metrioptera brachyptera.wav",
+      "metadata": "XC1182137 - Bog Bush-cricket - Metrioptera brachyptera.xc.json",
+      "source": "xeno-canto",
+      "species": "Metrioptera brachyptera",
+      "xc_id": 1182137
+    },
+    {
+      "en": "",
+      "filename": "XC1182099 -  - Pholidoptera aptera.wav",
+      "metadata": "XC1182099 -  - Pholidoptera aptera.xc.json",
+      "source": "xeno-canto",
+      "species": "Pholidoptera aptera",
+      "xc_id": 1182099
+    },
+    {
+      "en": "Upland Green Bush-cricket",
+      "filename": "XC1182094 - Upland Green Bush-cricket - Tettigonia cantans.wav",
+      "metadata": "XC1182094 - Upland Green Bush-cricket - Tettigonia cantans.xc.json",
+      "source": "xeno-canto",
+      "species": "Tettigonia cantans",
+      "xc_id": 1182094
+    },
+    {
+      "en": "",
+      "filename": "XC1180464 -  - Hexacentrus japonicus.wav",
+      "metadata": "XC1180464 -  - Hexacentrus japonicus.xc.json",
+      "source": "xeno-canto",
+      "species": "Hexacentrus japonicus",
+      "xc_id": 1180464
+    },
+    {
+      "en": "Large Conehead",
+      "filename": "XC1175161 - Large Conehead - Ruspolia nitidula.wav",
+      "metadata": "XC1175161 - Large Conehead - Ruspolia nitidula.xc.json",
+      "source": "xeno-canto",
+      "species": "Ruspolia nitidula",
+      "xc_id": 1175161
+    },
+    {
+      "en": "",
+      "filename": "XC1174132 -  - Stauroderus scalaris.wav",
+      "metadata": "XC1174132 -  - Stauroderus scalaris.xc.json",
+      "source": "xeno-canto",
+      "species": "Stauroderus scalaris",
+      "xc_id": 1174132
+    },
+    {
+      "en": "",
+      "filename": "XC1174017 -  - Nemobius sylvestris.wav",
+      "metadata": "XC1174017 -  - Nemobius sylvestris.xc.json",
+      "source": "xeno-canto",
+      "species": "Nemobius sylvestris",
+      "xc_id": 1174017
+    },
+    {
+      "en": "",
+      "filename": "XC1174016 -  - Pseudochorthippus parallelus.wav",
+      "metadata": "XC1174016 -  - Pseudochorthippus parallelus.xc.json",
+      "source": "xeno-canto",
+      "species": "Pseudochorthippus parallelus",
+      "xc_id": 1174016
+    },
+    {
+      "en": "Common Straw Grasshopper",
+      "filename": "XC1174013 - Common Straw Grasshopper - Euchorthippus declivus.wav",
+      "metadata": "XC1174013 - Common Straw Grasshopper - Euchorthippus declivus.xc.json",
+      "source": "xeno-canto",
+      "species": "Euchorthippus declivus",
+      "xc_id": 1174013
+    },
+    {
+      "en": "",
+      "filename": "XC1172609 -  - Stenobothrus lineatus.wav",
+      "metadata": "XC1172609 -  - Stenobothrus lineatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Stenobothrus lineatus",
+      "xc_id": 1172609
+    },
+    {
+      "en": "",
+      "filename": "XC1165208 -  - Platycleis albopunctata.wav",
+      "metadata": "XC1165208 -  - Platycleis albopunctata.xc.json",
+      "source": "xeno-canto",
+      "species": "Platycleis albopunctata",
+      "xc_id": 1165208
+    },
+    {
+      "en": "Spanish Saddle Bush-cricket",
+      "filename": "XC1161967 - Spanish Saddle Bush-cricket - Ephippigerida areolaria.wav",
+      "metadata": "XC1161967 - Spanish Saddle Bush-cricket - Ephippigerida areolaria.xc.json",
+      "source": "xeno-canto",
+      "species": "Ephippigerida areolaria",
+      "xc_id": 1161967
+    },
+    {
+      "en": "",
+      "filename": "XC1161498 -  - Neocallicrania selligera.wav",
+      "metadata": "XC1161498 -  - Neocallicrania selligera.xc.json",
+      "source": "xeno-canto",
+      "species": "Neocallicrania selligera",
+      "xc_id": 1161498
+    },
+    {
+      "en": "",
+      "filename": "XC1161410 -  - Anonconotus occidentalis.wav",
+      "metadata": "XC1161410 -  - Anonconotus occidentalis.xc.json",
+      "source": "xeno-canto",
+      "species": "Anonconotus occidentalis",
+      "xc_id": 1161410
+    },
+    {
+      "en": "Lily Bush-cricket",
+      "filename": "XC1158214 - Lily Bush-cricket - Tylopsis lilifolia.wav",
+      "metadata": "XC1158214 - Lily Bush-cricket - Tylopsis lilifolia.xc.json",
+      "source": "xeno-canto",
+      "species": "Tylopsis lilifolia",
+      "xc_id": 1158214
+    },
+    {
+      "en": "Sepia Bush-cricket",
+      "filename": "XC1157166 - Sepia Bush-cricket - Sepiana sepium.wav",
+      "metadata": "XC1157166 - Sepia Bush-cricket - Sepiana sepium.xc.json",
+      "source": "xeno-canto",
+      "species": "Sepiana sepium",
+      "xc_id": 1157166
+    },
+    {
+      "en": "",
+      "filename": "XC1154613 -  - Tessellana tessellata.wav",
+      "metadata": "XC1154613 -  - Tessellana tessellata.xc.json",
+      "source": "xeno-canto",
+      "species": "Tessellana tessellata",
+      "xc_id": 1154613
+    },
+    {
+      "en": "",
+      "filename": "XC874892 -  - Hexacentrus unicolor.wav",
+      "metadata": "XC874892 -  - Hexacentrus unicolor.xc.json",
+      "source": "xeno-canto",
+      "species": "Hexacentrus unicolor",
+      "xc_id": 874892
+    },
+    {
+      "en": "",
+      "filename": "XC875004 -  - Mecopoda elongata.wav",
+      "metadata": "XC875004 -  - Mecopoda elongata.xc.json",
+      "source": "xeno-canto",
+      "species": "Mecopoda elongata",
+      "xc_id": 875004
+    },
+    {
+      "en": "",
+      "filename": "XC945231 -  - Psyrana tigrina.wav",
+      "metadata": "XC945231 -  - Psyrana tigrina.xc.json",
+      "source": "xeno-canto",
+      "species": "Psyrana tigrina",
+      "xc_id": 945231
+    },
+    {
+      "en": "Blackish Meadow Katydid",
+      "filename": "XC874757 - Blackish Meadow Katydid - Conocephalus semivittatus.wav",
+      "metadata": "XC874757 - Blackish Meadow Katydid - Conocephalus semivittatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Conocephalus semivittatus",
+      "xc_id": 874757
+    },
+    {
+      "en": "Variegated Tinamou",
+      "filename": "XC913744 - Variegated Tinamou - Crypturellus variegatus.wav",
+      "metadata": "XC913744 - Variegated Tinamou - Crypturellus variegatus.xc.json",
+      "source": "xeno-canto",
+      "species": "Crypturellus variegatus",
+      "xc_id": 913744
+    },
+    {
+      "en": "Northern Screamer",
+      "filename": "XC1078076 - Northern Screamer - Chauna chavaria.wav",
+      "metadata": "XC1078076 - Northern Screamer - Chauna chavaria.xc.json",
+      "source": "xeno-canto",
+      "species": "Chauna chavaria",
+      "xc_id": 1078076
+    },
+    {
+      "en": "Lesser Whistling Duck",
+      "filename": "XC1160798 - Lesser Whistling Duck - Dendrocygna javanica.wav",
+      "metadata": "XC1160798 - Lesser Whistling Duck - Dendrocygna javanica.xc.json",
+      "source": "xeno-canto",
+      "species": "Dendrocygna javanica",
+      "xc_id": 1160798
+    },
+    {
+      "en": "Wood Duck",
+      "filename": "XC872893 - Wood Duck - Aix sponsa.wav",
+      "metadata": "XC872893 - Wood Duck - Aix sponsa.xc.json",
+      "source": "xeno-canto",
+      "species": "Aix sponsa",
+      "xc_id": 872893
+    },
+    {
+      "en": "Northern Shoveler",
+      "filename": "XC871135 - Northern Shoveler - Spatula clypeata.wav",
+      "metadata": "XC871135 - Northern Shoveler - Spatula clypeata.xc.json",
+      "source": "xeno-canto",
+      "species": "Spatula clypeata",
+      "xc_id": 871135
+    },
+    {
+      "en": "Eurasian Wigeon",
+      "filename": "XC872896 - Eurasian Wigeon - Mareca penelope.wav",
+      "metadata": "XC872896 - Eurasian Wigeon - Mareca penelope.xc.json",
+      "source": "xeno-canto",
+      "species": "Mareca penelope",
+      "xc_id": 872896
+    },
+    {
+      "en": "Ring-necked Duck",
+      "filename": "XC871079 - Ring-necked Duck - Aythya collaris.wav",
+      "metadata": "XC871079 - Ring-necked Duck - Aythya collaris.xc.json",
+      "source": "xeno-canto",
+      "species": "Aythya collaris",
+      "xc_id": 871079
+    },
+    {
+      "en": "Common Scoter",
+      "filename": "XC1086259 - Common Scoter - Melanitta nigra.wav",
+      "metadata": "XC1086259 - Common Scoter - Melanitta nigra.xc.json",
+      "source": "xeno-canto",
+      "species": "Melanitta nigra",
+      "xc_id": 1086259
+    },
+    {
+      "en": "Pauraque",
+      "filename": "XC1083752 - Pauraque - Nyctidromus albicollis.wav",
+      "metadata": "XC1083752 - Pauraque - Nyctidromus albicollis.xc.json",
+      "source": "xeno-canto",
+      "species": "Nyctidromus albicollis",
+      "xc_id": 1083752
+    },
+    {
+      "en": "Lyre-tailed Nightjar",
+      "filename": "XC1083547 - Lyre-tailed Nightjar - Uropsalis lyra.wav",
+      "metadata": "XC1083547 - Lyre-tailed Nightjar - Uropsalis lyra.xc.json",
+      "source": "xeno-canto",
+      "species": "Uropsalis lyra",
+      "xc_id": 1083547
+    },
+    {
+      "en": "Cave Swiftlet",
+      "filename": "XC1053609 - Cave Swiftlet - Collocalia linchi.wav",
+      "metadata": "XC1053609 - Cave Swiftlet - Collocalia linchi.xc.json",
+      "source": "xeno-canto",
+      "species": "Collocalia linchi",
+      "xc_id": 1053609
+    },
+    {
+      "en": "Asian Palm Swift",
+      "filename": "XC1160786 - Asian Palm Swift - Cypsiurus balasiensis.wav",
+      "metadata": "XC1160786 - Asian Palm Swift - Cypsiurus balasiensis.xc.json",
+      "source": "xeno-canto",
+      "species": "Cypsiurus balasiensis",
+      "xc_id": 1160786
+    },
+    {
+      "en": "Alpine Swift",
+      "filename": "XC1140427 - Alpine Swift - Tachymarptis melba.wav",
+      "metadata": "XC1140427 - Alpine Swift - Tachymarptis melba.xc.json",
+      "source": "xeno-canto",
+      "species": "Tachymarptis melba",
+      "xc_id": 1140427
+    },
+    {
+      "en": "Common Swift",
+      "filename": "XC1099081 - Common Swift - Apus apus.wav",
+      "metadata": "XC1099081 - Common Swift - Apus apus.xc.json",
+      "source": "xeno-canto",
+      "species": "Apus apus",
+      "xc_id": 1099081
+    },
+    {
+      "en": "White-necked Jacobin",
+      "filename": "XC1083732 - White-necked Jacobin - Florisuga mellivora.wav",
+      "metadata": "XC1083732 - White-necked Jacobin - Florisuga mellivora.xc.json",
+      "source": "xeno-canto",
+      "species": "Florisuga mellivora",
+      "xc_id": 1083732
+    },
+    {
+      "en": "American Bullfrog",
+      "filename": "XC1083971 - American Bullfrog - Aquarana catesbeiana.wav",
+      "metadata": "XC1083971 - American Bullfrog - Aquarana catesbeiana.xc.json",
+      "source": "xeno-canto",
+      "species": "Aquarana catesbeiana",
+      "xc_id": 1083971
+    },
+    {
+      "en": "Common Toad",
+      "filename": "XC1100511 - Common Toad - Bufo bufo.wav",
+      "metadata": "XC1100511 - Common Toad - Bufo bufo.xc.json",
+      "source": "xeno-canto",
+      "species": "Bufo bufo",
+      "xc_id": 1100511
+    },
+    {
+      "en": "Giant Gladiator Treefrog",
+      "filename": "XC1003711 - Giant Gladiator Treefrog - Boana boans.wav",
+      "metadata": "XC1003711 - Giant Gladiator Treefrog - Boana boans.xc.json",
+      "source": "xeno-canto",
+      "species": "Boana boans",
+      "xc_id": 1003711
+    },
+    {
+      "en": "",
+      "filename": "XC943538 -  - Ameerega hahneli.wav",
+      "metadata": "XC943538 -  - Ameerega hahneli.xc.json",
+      "source": "xeno-canto",
+      "species": "Ameerega hahneli",
+      "xc_id": 943538
+    },
+    {
+      "en": "Pyburn's Pancake Frog",
+      "filename": "XC913518 - Pyburn's Pancake Frog - Otophryne pyburni.wav",
+      "metadata": "XC913518 - Pyburn's Pancake Frog - Otophryne pyburni.xc.json",
+      "source": "xeno-canto",
+      "species": "Otophryne pyburni",
+      "xc_id": 913518
+    },
+    {
+      "en": "",
+      "filename": "XC943542 -  - Atelopus flavescens.wav",
+      "metadata": "XC943542 -  - Atelopus flavescens.xc.json",
+      "source": "xeno-canto",
+      "species": "Atelopus flavescens",
+      "xc_id": 943542
+    },
+    {
+      "en": "insects",
+      "filename": "Sonniss - amb_crickets_multiple_south_france_04.wav",
+      "metadata": "Sonniss - amb_crickets_multiple_south_france_04.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "RedSonic - Crickets and Frogs"
+    },
+    {
+      "en": "water",
+      "filename": "Sonniss - water river Guber small stream detailed close perspective stereoXY.wav",
+      "metadata": "Sonniss - water river Guber small stream detailed close perspective stereoXY.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "SoundHolder -  Water Flow"
+    },
+    {
+      "en": "electrical",
+      "filename": "Sonniss - 15-Electric Arc-Transformer-Static.wav",
+      "metadata": "Sonniss - 15-Electric Arc-Transformer-Static.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Wakerone - Electric Deluxe"
+    },
+    {
+      "en": "electrical",
+      "filename": "Sonniss - EMF_Toaster.wav",
+      "metadata": "Sonniss - EMF_Toaster.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Fox Audio Post-Production - Electromagnetic – Field & Emissions"
+    },
+    {
+      "en": "drone",
+      "filename": "Sonniss - Quadcopter YTG Fly By Slow Ext 2.wav",
+      "metadata": "Sonniss - Quadcopter YTG Fly By Slow Ext 2.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Audio Shade – Quadcopter Flight"
+    },
+    {
+      "en": "vegetation",
+      "filename": "Sonniss - RUSTLE Studio performed broadleaf reeds manipulation LOOP.LR.wav",
+      "metadata": "Sonniss - RUSTLE Studio performed broadleaf reeds manipulation LOOP.LR.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Articulated Sounds - Rustle Tones"
+    },
+    {
+      "en": "power tool or machine",
+      "filename": "Sonniss - Small Vibrating Saw - On Off Close [Dynamic Mono].wav",
+      "metadata": "Sonniss - Small Vibrating Saw - On Off Close [Dynamic Mono].sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Double Trouble Audio - Power Tools"
+    },
+    {
+      "en": "electrical",
+      "filename": "Sonniss - EMF_051_Smartphone.wav",
+      "metadata": "Sonniss - EMF_051_Smartphone.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Soundbox Library - Electromagnetic Fields Collection"
+    },
+    {
+      "en": "electrical",
+      "filename": "Sonniss - EMF_164_Desktop_Computer.wav",
+      "metadata": "Sonniss - EMF_164_Desktop_Computer.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Soundbox Library - Electromagnetic Fields Collection"
+    },
+    {
+      "en": "birds",
+      "filename": "Sonniss - PRB315 Northern Goshawk (Lucjan) - Call, Squawk Shriek Screech Long, Wings Flapping Movements - Sanken MF.wav",
+      "metadata": "Sonniss - PRB315 Northern Goshawk (Lucjan) - Call, Squawk Shriek Screech Long, Wings Flapping Movements - Sanken MF.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Soundmind - Predatory Birds"
+    },
+    {
+      "en": "water",
+      "filename": "Sonniss - Bluezone_BC0259_wilderness_flowing_water_stream_001_01.wav",
+      "metadata": "Sonniss - Bluezone_BC0259_wilderness_flowing_water_stream_001_01.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Bluezone - Wilderness - Flowing Water"
+    },
+    {
+      "en": "power tool or machine",
+      "filename": "Sonniss - Electric_Mower_Engine_turn on_turn off_start_stop_mowing_grass_cutting_branches_trimming_engine_running_chopping_Long_02.wav",
+      "metadata": "Sonniss - Electric_Mower_Engine_turn on_turn off_start_stop_mowing_grass_cutting_branches_trimming_engine_running_chopping_Long_02.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Matt Script - Electric Lawn Mower"
+    },
+    {
+      "en": "vehicle",
+      "filename": "Sonniss - FFPA 23 Car Ford Fusion Petrol 1.6 Duratec Turn Key And Start Engine Rev In Neutral Stereo Rode NT5 ORTF MCU.wav",
+      "metadata": "Sonniss - FFPA 23 Car Ford Fusion Petrol 1.6 Duratec Turn Key And Start Engine Rev In Neutral Stereo Rode NT5 ORTF MCU.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Submerged Tapes - Ford Fusion Plus Ambisonics"
+    },
+    {
+      "en": "human breath",
+      "filename": "Sonniss - HUMAN BREATH Male_Deep Mouth Inhale and Powerful Strong Exhale with Acceleration_A.wav",
+      "metadata": "Sonniss - HUMAN BREATH Male_Deep Mouth Inhale and Powerful Strong Exhale with Acceleration_A.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Articulated Sounds - Human Male Breathe"
+    },
+    {
+      "en": "handling",
+      "filename": "Sonniss - Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k.wav",
+      "metadata": "Sonniss - Metal_Creak_Van_Door_Back_and_Forth_Various_CO100k.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Pole Position - The Junkyard Metal Library"
+    },
+    {
+      "en": "power tool or machine",
+      "filename": "Sonniss - Milling-Machine_02_04.wav",
+      "metadata": "Sonniss - Milling-Machine_02_04.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "SoundBits - Electro-mechanics Toolkit 2"
+    },
+    {
+      "en": "water",
+      "filename": "Sonniss - Ocean_Cave_Resonant_Hole_Wet_Distant_Waves_02.wav",
+      "metadata": "Sonniss - Ocean_Cave_Resonant_Hole_Wet_Distant_Waves_02.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Sound Spark LLC - Ocean Ambience 1 Caves, Crevices and Waves"
+    },
+    {
+      "en": "rain and hail",
+      "filename": "Sonniss - PM_RD_RAIN_8_MODERATE_DRIPPY.wav",
+      "metadata": "Sonniss - PM_RD_RAIN_8_MODERATE_DRIPPY.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "PMSFX - Rain Designer"
+    },
+    {
+      "en": "vehicle",
+      "filename": "Sonniss - SBAv_Tram Interior Ride 003.wav",
+      "metadata": "Sonniss - SBAv_Tram Interior Ride 003.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Sonic Bat – Ambisonics - Village"
+    },
+    {
+      "en": "drone",
+      "filename": "Sonniss - The Chris Alan - Quadcopter Drone Flight - Binaural Mic - Drone On Hover Maneuver Hover Land Drone Off.wav",
+      "metadata": "Sonniss - The Chris Alan - Quadcopter Drone Flight - Binaural Mic - Drone On Hover Maneuver Hover Land Drone Off.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "The Chris Alan - QuadCopter Drone Flight In Binaural"
+    },
+    {
+      "en": "water",
+      "filename": "Sonniss - Bubbles in Glass Bottle Small, Gurgles, Higher Pitched.wav",
+      "metadata": "Sonniss - Bubbles in Glass Bottle Small, Gurgles, Higher Pitched.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "LukasTvrdon - Design Source 192"
+    },
+    {
+      "en": "rain and hail",
+      "filename": "Sonniss - HAIL_InsJ_Hail_Interior_Glass_02_LOOP.wav",
+      "metadata": "Sonniss - HAIL_InsJ_Hail_Interior_Glass_02_LOOP.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "InspectorJ - Essentials 06 Rain"
+    },
+    {
+      "en": "handling",
+      "filename": "Sonniss - Pebbles - DROP - Dense - Mono.wav",
+      "metadata": "Sonniss - Pebbles - DROP - Dense - Mono.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Pole Position Production - The Stone & Sand Library"
+    },
+    {
+      "en": "birds",
+      "filename": "Sonniss - SBAz_Aviary 003.wav",
+      "metadata": "Sonniss - SBAz_Aviary 003.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Sonic Bat - Ambisonics - Zoo"
+    },
+    {
+      "en": "birds",
+      "filename": "Sonniss - SBahob_Serinus Canaria Domesticus Singing 013.wav",
+      "metadata": "Sonniss - SBahob_Serinus Canaria Domesticus Singing 013.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Sonic Bat - A Handful Of Birds"
+    },
+    {
+      "en": "power tool or machine",
+      "filename": "Sonniss - SBttp_Typewriter 001.wav",
+      "metadata": "Sonniss - SBttp_Typewriter 001.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Sonic Bat - Turning The Page"
+    },
+    {
+      "en": "vehicle",
+      "filename": "Sonniss - SBve_Chevrolet Cruze Idle 2000RPM 3000RPM 4000RPM 002 Exterior.wav",
+      "metadata": "Sonniss - SBve_Chevrolet Cruze Idle 2000RPM 3000RPM 4000RPM 002 Exterior.sfx.json",
+      "source": "sonniss-gdc",
+      "library": "Sonic Bat - Vehicle Essentials"
+    },
+    {
+      "en": "shopping centre ambience",
+      "filename": "Signature Sounds - Union Square Mall - Background Ambience Full Recording-11.wav",
+      "metadata": "Signature Sounds - Union Square Mall - Background Ambience Full Recording-11.sfx.json",
+      "source": "signaturesounds",
+      "library": "Signature Sounds"
+    },
+    {
+      "en": "shopping centre ambience",
+      "filename": "Signature Sounds - Union Square Mall - Background Ambience Full Recording-1.wav",
+      "metadata": "Signature Sounds - Union Square Mall - Background Ambience Full Recording-1.sfx.json",
+      "source": "signaturesounds",
+      "library": "Signature Sounds"
+    },
+    {
+      "en": "shopping centre ambience",
+      "filename": "Signature Sounds - Coffee Shop Kiosk In Shopping Centre Ambience-30.wav",
+      "metadata": "Signature Sounds - Coffee Shop Kiosk In Shopping Centre Ambience-30.sfx.json",
+      "source": "signaturesounds",
+      "library": "Signature Sounds"
+    },
+    {
+      "en": "shopping centre ambience",
+      "filename": "Signature Sounds - Union Square Mall - Background Ambience Full Recording-10.wav",
+      "metadata": "Signature Sounds - Union Square Mall - Background Ambience Full Recording-10.sfx.json",
+      "source": "signaturesounds",
+      "library": "Signature Sounds"
+    },
+    {
+      "en": "shopping centre ambience",
+      "filename": "Signature Sounds - Union Square Mall - Background Ambience Full Recording-15.wav",
+      "metadata": "Signature Sounds - Union Square Mall - Background Ambience Full Recording-15.sfx.json",
+      "source": "signaturesounds",
+      "library": "Signature Sounds"
+    },
+    {
+      "en": "shopping centre ambience",
+      "filename": "Signature Sounds - Coffee Shop Kiosk In Shopping Centre Ambience-23.wav",
+      "metadata": "Signature Sounds - Coffee Shop Kiosk In Shopping Centre Ambience-23.sfx.json",
+      "source": "signaturesounds",
+      "library": "Signature Sounds"
+    },
+    {
+      "en": "shopping centre ambience",
+      "filename": "Signature Sounds - Coffee Shop Kiosk In Shopping Centre Ambience-24.wav",
+      "metadata": "Signature Sounds - Coffee Shop Kiosk In Shopping Centre Ambience-24.sfx.json",
+      "source": "signaturesounds",
+      "library": "Signature Sounds"
+    },
+    {
+      "en": "shopping centre ambience",
+      "filename": "Signature Sounds - Coffee Shop Kiosk In Shopping Centre Ambience-32.wav",
+      "metadata": "Signature Sounds - Coffee Shop Kiosk In Shopping Centre Ambience-32.sfx.json",
+      "source": "signaturesounds",
+      "library": "Signature Sounds"
+    },
+    {
+      "en": "shopping centre ambience",
+      "filename": "Signature Sounds - Union Square Mall - Background Ambience Full Recording-18.wav",
+      "metadata": "Signature Sounds - Union Square Mall - Background Ambience Full Recording-18.sfx.json",
+      "source": "signaturesounds",
+      "library": "Signature Sounds"
+    },
+    {
+      "en": "shopping centre ambience",
+      "filename": "Signature Sounds - Union Square Mall - Background Ambience Full Recording-19.wav",
+      "metadata": "Signature Sounds - Union Square Mall - Background Ambience Full Recording-19.sfx.json",
+      "source": "signaturesounds",
+      "library": "Signature Sounds"
+    }
+  ],
+  "version": 1
+}

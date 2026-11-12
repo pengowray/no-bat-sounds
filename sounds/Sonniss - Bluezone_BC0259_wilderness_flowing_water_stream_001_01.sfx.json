@@ -1,0 +1,15 @@
+{
+ "source": "sonniss-gdc",
+ "kind": "water",
+ "grp": "sound effects",
+ "bundle": "Sonniss.com - GDC 2020 - Game Audio Bundle",
+ "library": "Bluezone - Wilderness - Flowing Water",
+ "original_file": "Bluezone_BC0259_wilderness_flowing_water_stream_001_01.wav",
+ "excerpt_start_s": 2.0,
+ "excerpt_s": 30.0,
+ "channel": "first channel only",
+ "sample_rate": 96000,
+ "licence": "Sonniss #GameAudioGDC bundle licence (licences/sonniss-gdc-eula.pdf)",
+ "licence_url": "https://sonniss.com/gdcbundle-license/",
+ "calls3_bat_calls_full_file": 555
+}

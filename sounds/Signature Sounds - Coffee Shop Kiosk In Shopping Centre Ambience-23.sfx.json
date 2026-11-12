@@ -1,0 +1,16 @@
+{
+ "source": "signaturesounds",
+ "kind": "shopping centre ambience",
+ "grp": "sound effects",
+ "pack": "Mall Recordings Sample Pack (Shopping Centre Recordings)",
+ "library": "Signature Sounds (signaturesounds.org)",
+ "original_file": "Coffee Shop Kiosk In Shopping Centre Ambience-23.wav",
+ "excerpt_start_s": 4.0,
+ "excerpt_s": 30.0,
+ "channel": "first channel only",
+ "sample_rate": 96000,
+ "licence": "CC0 1.0",
+ "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "source_url": "https://signaturesounds.org/mall-recordings-sample-pack-cc0-free-to-download",
+ "calls3_bat_calls_full_file": 18
+}

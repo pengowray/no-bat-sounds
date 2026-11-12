@@ -1,0 +1,15 @@
+{
+ "source": "sonniss-gdc",
+ "kind": "water",
+ "grp": "sound effects",
+ "bundle": "Sonniss.com - GDC 2023 - Game Audio Bundle",
+ "library": "LukasTvrdon - Design Source 192",
+ "original_file": "Bubbles in Glass Bottle Small, Gurgles, Higher Pitched.wav",
+ "excerpt_start_s": 0.0,
+ "excerpt_s": 25.5,
+ "channel": "first channel only",
+ "sample_rate": 192000,
+ "licence": "Sonniss #GameAudioGDC bundle licence (licences/sonniss-gdc-eula.pdf)",
+ "licence_url": "https://sonniss.com/gdcbundle-license/",
+ "calls3_bat_calls_full_file": 696
+}

@@ -1,0 +1,15 @@
+{
+ "source": "sonniss-gdc",
+ "kind": "drone",
+ "grp": "sound effects",
+ "bundle": "Sonniss.com - GDC 2018 - Game Audio Bundle",
+ "library": "Audio Shade – Quadcopter Flight",
+ "original_file": "Quadcopter YTG Fly By Slow Ext 2.wav",
+ "excerpt_start_s": 0.0,
+ "excerpt_s": 10.6,
+ "channel": "first channel only",
+ "sample_rate": 96000,
+ "licence": "Sonniss #GameAudioGDC bundle licence (licences/sonniss-gdc-eula.pdf)",
+ "licence_url": "https://sonniss.com/gdcbundle-license/",
+ "calls3_bat_calls_full_file": 103
+}

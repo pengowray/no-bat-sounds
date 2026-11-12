@@ -1,0 +1,15 @@
+{
+ "source": "sonniss-gdc",
+ "kind": "rain and hail",
+ "grp": "sound effects",
+ "bundle": "Sonniss.com - GDC 2023 - Game Audio Bundle",
+ "library": "InspectorJ - Essentials 06 Rain",
+ "original_file": "HAIL_InsJ_Hail_Interior_Glass_02_LOOP.wav",
+ "excerpt_start_s": 5.0,
+ "excerpt_s": 30.0,
+ "channel": "first channel only",
+ "sample_rate": 96000,
+ "licence": "Sonniss #GameAudioGDC bundle licence (licences/sonniss-gdc-eula.pdf)",
+ "licence_url": "https://sonniss.com/gdcbundle-license/",
+ "calls3_bat_calls_full_file": 877
+}
